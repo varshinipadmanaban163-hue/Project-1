@@ -1,0 +1,2 @@
+# Project-1
+Global_seismic_trends_data_driven_earthquake_analysis

@@ -3,7 +3,7 @@ import streamlit as st
 from sqlalchemy import create_engine, URL
 
 
-engine = create_engine( "mysql+pymysql://root:NewTempPassword123!@localhost:3306/earthquake_db")
+engine = create_engine( "mysql+pymysql://root:{password}@localhost:3306/earthquake_db")
 
 
 
